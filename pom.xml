@@ -10,10 +10,10 @@
   </parent>
 
   <groupId>com.taogen.easyhttpclient</groupId>
-  <artifactId>easy-httpclient-parent</artifactId>
+  <artifactId>easy-httpclient-common</artifactId>
   <version>1.0-SNAPSHOT</version>
 
-  <name>Easy HttpClient Parent</name>
+  <name>Easy HttpClient Common</name>
   <!-- FIXME change it to the project's website -->
   <url>http://www.example.com</url>
 
